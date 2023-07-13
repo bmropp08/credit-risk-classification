@@ -1,1 +1,1 @@
-# credit-risk-classification
+In this code you will find code that uses a RandomOverSampler to fix the issue of having data that is lacking in one way or the other, thus creating a more balanced data set. Which then in return creates a better predictor model. The code uses training, prediction, review accuracy, and confusion matrix to evaluate a data set that is imported as a csv. 
